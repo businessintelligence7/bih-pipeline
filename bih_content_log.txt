@@ -1,0 +1,87 @@
+[2026-03-07 13:11:41] =======================================================
+[2026-03-07 13:11:41] BIH CONTENT SCHEDULER — Local Excel Edition
+[2026-03-07 13:11:41] Run: Saturday 07/03/2026 13:11
+[2026-03-07 13:11:41] =======================================================
+[2026-03-07 13:11:41] 
+⏰ Slot: Midday · Persona: Operations Manager
+[2026-03-07 13:11:41] 
+📂 Opening Excel file...
+[2026-03-07 13:11:41] 
+📰 Loading headlines...
+[2026-03-07 13:11:41]    ✅ 19 available
+[2026-03-07 13:11:41] 
+🎯 [JIS] Broiler Chicken Supply to Stabilise This Month...
+[2026-03-07 13:11:41] 
+✍️  Building posts...
+[2026-03-07 13:11:41]    ✅ LinkedIn  (913 chars)
+[2026-03-07 13:11:41]    ✅ Instagram (604 chars)
+[2026-03-07 13:11:41]    ✅ WhatsApp  (326 chars)
+[2026-03-07 13:11:41] 
+💾 Saving to Excel...
+[2026-03-07 13:13:21] =======================================================
+[2026-03-07 13:13:21] BIH CONTENT SCHEDULER — Local Excel Edition
+[2026-03-07 13:13:21] Run: Saturday 07/03/2026 13:13
+[2026-03-07 13:13:21] =======================================================
+[2026-03-07 13:13:21] 
+⏰ Slot: Midday · Persona: Operations Manager
+[2026-03-07 13:13:21] 
+📂 Opening Excel file...
+[2026-03-07 13:13:21] 
+📰 Loading headlines...
+[2026-03-07 13:13:21]    ✅ 19 available
+[2026-03-07 13:13:21] 
+🎯 [JIS] Broiler Chicken Supply to Stabilise This Month...
+[2026-03-07 13:13:21] 
+✍️  Building posts...
+[2026-03-07 13:13:21]    ✅ LinkedIn  (913 chars)
+[2026-03-07 13:13:21]    ✅ Instagram (604 chars)
+[2026-03-07 13:13:21]    ✅ WhatsApp  (326 chars)
+[2026-03-07 13:13:21] 
+💾 Saving to Excel...
+[2026-03-07 13:27:50] =======================================================
+[2026-03-07 13:27:50] BIH CONTENT SCHEDULER — Local Excel Edition
+[2026-03-07 13:27:50] Run: Saturday 07/03/2026 13:27
+[2026-03-07 13:27:50] =======================================================
+[2026-03-07 13:27:50] 
+⏰ Slot: Midday · Persona: Operations Manager
+[2026-03-07 13:27:50] 
+📰 Loading headlines (read-only)...
+[2026-03-07 13:27:50]    ✅ 19 available
+[2026-03-07 13:27:50] 
+🎯 [JIS] Broiler Chicken Supply to Stabilise This Month...
+[2026-03-07 13:27:50] 
+✍️  Building posts...
+[2026-03-07 13:27:50]    ✅ LinkedIn  (913 chars)
+[2026-03-07 13:27:50]    ✅ Instagram (604 chars)
+[2026-03-07 13:27:50]    ✅ WhatsApp  (326 chars)
+[2026-03-07 13:27:50] 
+💾 Saving posts to Content Queue...
+[2026-03-07 13:27:50]    ✅ Created: C:\Users\ohutchinson\Documents\Omaro\Business\BIH\Resources\BIH_Content_Queue.xlsx
+[2026-03-07 13:27:50]    ✅ Saved to: C:\Users\ohutchinson\Documents\Omaro\Business\BIH\Resources\BIH_Content_Queue.xlsx
+[2026-03-07 13:27:50]    ⚠️  Mark failed: '<' not supported between instances of 'str' and 'int'
+[2026-03-07 13:27:52]    ✅ Summary email sent
+[2026-03-07 13:27:52] 
+=======================================================
+[2026-03-07 13:27:52] ✅ COMPLETE — Midday slot done
+[2026-03-07 13:27:52]    Open: BIH_Content_Queue.xlsx to review your posts
+[2026-03-07 13:27:52] =======================================================
+[2026-03-07 13:27:52] 
+── LINKEDIN PREVIEW ──
+[2026-03-07 13:27:52] The businesses that scale fastest are the ones that systematised everything first.
+
+The country should begin seeing an increase in the availability of broiler chickens later this month, after sections of Jamaica experienced a shortage in the product during February. The announcement.
+
+AI and automation are reshaping how businesses operate — those that adapt early gain a significant edge over competitors still running on manual processes.
+
+We've done this for organisations across Jamaica — GraceKennedy, NCB, Barita. The result is always the same: teams get their time back and leaders get real answers, fast.
+
+If your business is ready to stop managing by spreadsheet and start making decisions with real-time data — book a free 15-minute discovery call with BIH: https://calendly.com/businessintelligenceholdings/discovery-meeting
+
+#ProcessAutomation #OperationalEfficiency #AIBusiness #BIH #JamaicaBusiness
+[2026-03-07 13:27:52] 
+── WHATSAPP PREVIEW ──
+[2026-03-07 13:27:52] The country should begin seeing an increase in the availability of broiler chickens later this.
+
+This is exactly the kind of shift BIH helps Caribbean businesses navigate — through automation, real-time data, and AI-powered operations.
+
+DM us or book a call: https://calendly.com/businessintelligenceholdings/discovery-meeting

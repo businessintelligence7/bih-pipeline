@@ -1,0 +1,41 @@
+[2026-03-07 13:07:07] =======================================================
+[2026-03-07 13:07:07] BIH NEWS MONITOR — Local Excel Edition
+[2026-03-07 13:07:07] Run: Saturday 07/03/2026 13:07
+[2026-03-07 13:07:07] =======================================================
+[2026-03-07 13:07:07] 
+📂 Creating new file: C:\Users\ohutchinson\Documents\Omaro\Business\BIH\Resources\BIH_Marketing_Headlines.xlsx
+[2026-03-07 13:07:07]    Already in file: 0 articles
+[2026-03-07 13:07:07] 
+📡 Fetching RSS feeds...
+[2026-03-07 13:07:07]    Fetching: The Gleaner...
+[2026-03-07 13:07:08]    ✅ 0 articles
+[2026-03-07 13:07:09]    Fetching: Jamaica Observer...
+[2026-03-07 13:07:09]    ✅ 5 articles
+[2026-03-07 13:07:10]    Fetching: JIS...
+[2026-03-07 13:07:30]    ✅ 5 articles
+[2026-03-07 13:07:31]    Fetching: TechCrunch...
+[2026-03-07 13:07:32]    ✅ 5 articles
+[2026-03-07 13:07:33]    Fetching: Bloomberg Tech...
+[2026-03-07 13:07:33]    ✅ 5 articles
+[2026-03-07 13:07:34]    Fetching: Fortune...
+[2026-03-07 13:07:34]    ✅ 5 articles
+[2026-03-07 13:07:35]    Fetching: Techmeme...
+[2026-03-07 13:07:36]    ✅ 5 articles
+[2026-03-07 13:07:37] 
+   Total fetched: 30 articles
+[2026-03-07 13:07:37] 
+💾 Writing to Excel...
+[2026-03-07 13:07:37] 
+=======================================================
+[2026-03-07 13:07:37] ✅ COMPLETE
+[2026-03-07 13:07:37]    30 new headlines added
+[2026-03-07 13:07:37]    19 flagged as BIH-relevant
+[2026-03-07 13:07:37]    File: C:\Users\ohutchinson\Documents\Omaro\Business\BIH\Resources\BIH_Marketing_Headlines.xlsx
+[2026-03-07 13:07:37] =======================================================
+
+[2026-03-07 13:07:37] 📰 Top headlines for today's content:
+[2026-03-07 13:07:37]    1. [JIS] Gov’t Partners with World Bank to Boost Water Supply
+[2026-03-07 13:07:37]    2. [JIS] Broiler Chicken Supply to Stabilise This Month
+[2026-03-07 13:07:37]    3. [Jamaica Observer] Quiet pain
+[2026-03-07 13:07:37]    4. [JIS] Vegetable Oversupply not Caused by Importation
+[2026-03-07 13:07:37]    5. [JIS] Multi-Pronged Approach to Boosting Healthcare Workers

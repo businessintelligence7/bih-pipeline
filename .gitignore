@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.xlsx
+bih_campaign_log.txt
+bih_pending_approvals.json
